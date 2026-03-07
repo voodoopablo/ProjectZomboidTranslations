@@ -6261,7 +6261,305 @@
 	//2118. ORIGINAL: But this is clearly in the nation's interest.
 	3a32eb81-2a2d-4219-b9f8-81ef34d3e24a = Però açò és, clarament, pel bé de la nació.
 
-    
+    //2119. ORIGINAL: The greater good.
+	2522e486-dd02-4088-a5a0-a9eae48cc17a = Pel bé comú.
+
+	//2120. ORIGINAL: I've heard a lot of people asking - 'Why can't we know?'
+	2a7e2db6-c1d7-48a4-827f-bdbea124fdf2 = He sentit a molta gent preguntant: "¿Per què no podem saber-ho?".
+
+	//2121. ORIGINAL: Why can't the Government just say: 'Here's the problem'?
+	b629054e-8291-40a0-96df-e24d51cd114b = ¿Per què el Govern no pot dir simplement: "Ací teniu el problema"?
+
+	//2122. ORIGINAL: There's bravery in silence, folks.
+	7cf44fc3-2015-4e77-b098-7ab0dcdb35bd = Hi ha valentia en el silenci, gent.
+
+	//2123. ORIGINAL: They're busy looking in on this... let's call it a 'Knox Event'
+	2b83ef40-a51e-4c58-95a4-99ace4603865 = Estan ocupats investigant açò... anomenem-ho "Event Knox".
+
+	//2124. ORIGINAL: They don't have time to look back out.
+	a3a057ab-5f2f-43f5-b47d-6411ff6e63b4 = No tenen temps per a mirar cap a fora.
+
+	//2125. ORIGINAL: They're relying on us to keep calm and have faith.
+	9f5d0905-c082-4980-b5ec-c45bf427286a = Confien en que mantindrem la calma i tindrem fe.
+
+	//2126. ORIGINAL: I do have faith, and as an American...
+	f3f85f0b-5faf-4a45-8f36-8f6bae34950d = Jo en tinc, de fe, i com a americà...
+
+	//2127. ORIGINAL: ... so should you.
+	a0b52ab3-a278-4904-bd09-2d6ee260e206 = ... vosaltres també hauríeu de tindre-la.
+
+	//2128. ORIGINAL: I've been Judge Matt Hass...
+	99fa3a2e-87fc-4870-b328-2341eca7a281 = He sigut el jutge Matt Hass...
+
+	//2129. ORIGINAL: That was Judge Matt Hass. Good evening, you're on Triple N.
+	ad0808fe-f6fa-47c8-ba9a-a12fd7e7a9dc = Eixe era el jutge Matt Hass. Bona nit, esteu en Triple-N.
+
+	//2130. ORIGINAL: While we've been on air: a statement from the White House.
+	15b338f5-e47e-4798-9e67-16041cde6e16 = Mentre estàvem en antena: un comunicat de la Casa Blanca.
+
+	//2131. ORIGINAL: The President has claimed he is 'understandably distressed' by the Knox Event.
+	5f6f8964-4880-421c-bdd5-80ca748188a4 = El President ha afirmat que està "comprensiblement aclaparat" per l'Event Knox.
+
+	//2132. ORIGINAL: More as it happens throughout the night...
+	cc43cfe7-bf78-4109-a525-1fdadfa1ccd2 = Més detalls a mesura que ocórreguen durant la nit...
+
+	//2133. ORIGINAL: As the Knox Event enters its fifth day. Anger is at boiling point.
+	800d60d5-c583-4bc2-8668-1d22c8758007 = Mentre l'Event Knox entra en el seu quint dia, la indignació està al roig viu.
+
+	//2134. ORIGINAL: America demands answers. Reporting from Washington: Daniel Sinclair.
+	5a6b9dd7-16da-4f2f-8f37-184127d02ff0 = Amèrica exigix respostes. Informa des de Washington: Daniel Sinclair.
+
+	//2135. ORIGINAL: Republicans in the building behind me are in uproar today.
+	2eed5720-62a2-4f5e-9078-b901b65e00b2 = Els republicans en l'edifici que tinc darrere estan hui en peu de guerra.
+
+	//2136. ORIGINAL: Their problem? The 'do nothing' agenda of the President.
+	bf45e0e8-ba0b-4315-9b61-f2eb96d38e02 = ¿El seu problema? L'agenda de "no fer res" del President.
+
+	//2137. ORIGINAL: To many, the President's address yesterday simply was not enough:
+	69307737-d4f3-4f7d-b97e-5e80a808f8fd = Per a molts, el discurs d'ahir del President simplement no va ser suficient:
+
+	//2138. ORIGINAL: Critics of the administration point to at best an inability to share information...
+	13aa588a-d765-44e4-a72a-98c2b39e5cea = Els crítics de l'administració assenyalen, en el millor dels casos, una incapacitat per a compartir informació...
+
+	//2139. ORIGINAL: ... and at worst a reluctance.
+	6e8d1f2d-705a-4581-a447-fc405206810a = ... i en el pitjor, una reticència deliberada.
+
+	//2140. ORIGINAL: Thank you Daniel.
+	07335259-bd3d-4df0-b0cd-45195920e3fa = Gràcies, Daniel.
+
+	//2141. ORIGINAL: Now, Triple-N has received a statement overnight from the State Department.
+	118756bf-db4f-4303-bd07-10867849eb7f = Ara, Triple-N ha rebut durant la nit un comunicat del Departament d'Estat.
+
+	//2142. ORIGINAL: General John McGrew have apologised for a 'lack of clarity'.
+	d62cf80d-9370-47c4-a102-253175730071 = El General John McGrew s'ha disculpat per una "falta de claredat".
+
+	//2143. ORIGINAL: He underlines that the unspecified outbreak IS contained.
+	581fef8d-820d-49c1-980b-2b5e3c198591 = Subratlla que el brot no especificat ESTÀ contingut.
+
+	//2144. ORIGINAL: Military Health officials state that fatalities within the Zone are...
+	83f062ce-80ad-4fd2-9c21-36acebe4c6ea = Els oficials de Sanitat Militar afirmen que les víctimes mortals dins de la Zona...
+
+	//2145. ORIGINAL: ...NOT currently a concern.
+	97dc4e01-f4a1-4863-be93-a6af3af576bd = ...NO són actualment una preocupació.
+
+	//2146. ORIGINAL: Later today we've been promised a full and frank conversation...
+	8ed28337-cbcd-484d-b0f6-28c986967fa1 = Més tard se'ns ha promés una conversa completa i sincera...
+
+	//2147. ORIGINAL: ...talking to one of the scientists operating on the boundary.
+	f2964b0a-08b5-4bb7-9489-f3a00e6e1414 = ...parlant amb un dels científics que treballen en el límit.
+
+	//2148. ORIGINAL: Flu-like'. 'Panic'. 'Confusion'.
+	0cad3eab-834a-415d-bd64-29c090340cd2 = "Símptomes de grip". "Pànic". "Confusió".
+
+	//2149. ORIGINAL: An unknown communicable illness that has cut through Kentucky communities...
+	9580fbdf-bbaf-485a-bd20-d40b12f74ef3 = Una malaltia transmissible desconeguda que ha colpejat les comunitats de Kentucky...
+
+	//2150. ORIGINAL: ...forcing evacuations, and the creation of a huge exclusion zone.
+	b06bb004-3f46-450e-87cd-c0d95de2195b = ...forçant evacuacions i la creació d'una enorme zona d'exclusió.
+
+	//2151. ORIGINAL: Yet STILL no concrete word on what the Knox Event is, or how it spreads.
+	dac0a515-12bd-4a34-afc4-aa7232a837aa = Però encara no hi ha una paraula concreta sobre què és l'Event Knox o com es propaga.
+
+	//2152. ORIGINAL: Worse? Revelations from a Dr Jack Galbraithe - a former scientist with the CDC.
+	61116350-6886-4e13-bd54-a83985ce2836 = ¿Pitjor encara? Les revelacions del Dr. Jack Galbraithe, un antic científic del CDC.
+
+	//2153. ORIGINAL: He's reported as saying: 'America is not ready for this'.
+	aa7aa9b6-a2c1-4f05-91b8-ec92e85c9c28 = Segons informes, ha dit: "Amèrica no està preparada per a açò".
+
+	//2154. ORIGINAL: We haven't been ready for a long time.'
+	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = No hem estat preparats des de fa molt de temps".
+
+	//2155. ORIGINAL: How does that sound to you on the ground at the Event boundary, Kirsty Cormick?
+	38e536b5-d420-401d-a882-adfd677f9e83 = ¿Com sona açò per allí, en el mateix límit de l'Event, Kirsty Cormick?
+
+	//2156. ORIGINAL: Well Joan, it's exactly that sort of rumor that's not helping.
+	a6698a96-263a-49d6-ae28-b1ad260ce285 = Bé Joan, és exactament este tipus de rumors els que no ajuden gens.
+
+	//2157. ORIGINAL: People just don't what to do, and the military don't know what to do with them.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = La gent simplement no sap què fer, i els militars no saben què fer amb ells.
+
+	//2158. ORIGINAL: Some have been taken to Louisville - but most?
+	1d04b055-1894-4815-87b6-2c157d589392 = Alguns han sigut traslladats a Louisville... ¿però la majoria?
+
+	//2159. ORIGINAL: They want to stay - in tents, in local buildings. This is their home.
+	5fa4b879-0315-4f17-bbb3-7d35aa3a509d = Volen quedar-se; en tendes, en edificis locals. Esta és la seua llar.
+
+	//2160. ORIGINAL: Or, at least as near to their homes as the Army will allow them.
+	ba371734-10ba-4750-95bd-7d5db07418af = O, almenys, tan prop de les seues cases com l'Exèrcit els ho permeta.
+
+	//2161. ORIGINAL: And they're angry. Real angry.
+	4a9501ff-23c1-424e-9a73-d7e3d91b6c32 = I estan enfadats. Molt enfadats.
+
+	//2162. ORIGINAL: They're not tellin' us nothing!
+	fec33769-7318-4c22-a704-6b255e391521 = ¡No ens diuen res!
+
+	//2163. ORIGINAL: Every day like the last!
+	d0b04dac-bb9c-4ae0-a4fb-435f91d603a3 = ¡Cada dia és igual que l'anterior!
+
+	//2164. ORIGINAL: I got a business in there, in West Point!
+	76e5c032-1e1b-4de4-9eff-7e79e646f051 = ¡Tinc un negoci allí dins, en West Point!
+
+	//2165. ORIGINAL: I got a home! A family!
+	c9cd6cc6-7f14-4947-9c9f-d4ce24445099 = ¡Tinc una casa! ¡Una família!
+
+	//2166. ORIGINAL: I've got a dog too, and they took it for no reason at all!
+	d4e16adf-ce2c-4d11-98e7-76b1188e6326 = ¡També tinc un gos, i se l'han emportat sense cap motiu!
+
+	//2167. ORIGINAL: We want answers!
+	3ecb94cf-cbfa-4cfa-b9da-459aef865e1d = ¡Volem respostes!
+
+	//2168. ORIGINAL: This is Kirsty Cormick on the Knox Event line. Back to the studio.
+	2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = Soc Kirsty Cormick des de la línia de l'Event Knox. Tornem a l'estudi.
+
+	//2169. ORIGINAL: Now, coming up - the scientist that says 'it IS contained'...
+	35477a99-1fe7-4a62-8b0a-2cc50cd6375a = A continuació: el científic que diu que "ESTÀ contingut"...
+
+	//2170. ORIGINAL: This is Triple-N, here with Professor John Ramirez.
+	06fe18a6-beaa-40d6-aad7-1f6d2b2dab51 = Açò és Triple-N, estem ací amb el professor John Ramirez.
+
+	//2171. ORIGINAL: What's going on Professor?
+	a29f8ec0-5165-4338-90fe-fa2737c24239 = ¿Què està passant, professor?
+
+	//2172. ORIGINAL: Can you describe the illness that's spreading in there?
+	486bd77e-7960-4484-95d5-a09c7831bf31 = ¿Pot descriure la malaltia que s'està propagant allà dins?
+
+	//2173. ORIGINAL: I'm sorry, but that's all classified.
+	b3cfa702-d9eb-4b0f-9b49-54a82d94998b = Ho sent, però tot això és informació reservada.
+
+	//2174. ORIGINAL: I can confirm, though, that it's a fever. And initial symptoms can turn to panic and confusion.
+	5f8597d1-8ddd-410b-bc4b-e1dac8d73401 = Puc confirmar, no obstant això, que es tracta d'una febra. I els símptomes inicials poden derivar en pànic i confusió.
+
+	//2175. ORIGINAL: We have experts on-site.
+	a38bcce3-4b30-4e31-bf06-9b25167bb69c = Tenim experts en el lloc.
+
+	//2176. ORIGINAL: And what of the rumors of violence inside the Exclusion Zone?
+	6284c735-b829-4677-93c0-2259bdf715b2 = ¿I què hi ha dels rumors de violència dins de la Zona d'Exclusió?
+
+	//2177. ORIGINAL: We've got the spread of the illness contained...
+	608fc334-0a99-4dbf-95f8-57c6d28a9602 = Tenim la propagació de la malaltia continguda...
+
+	//2178. ORIGINAL: ...and the best minds we've got working on it.
+	12eaeae0-8f5f-4799-a972-8bdf8cc3f692 = ...i les millors ments que tenim estan treballant en ella.
+
+	//2179. ORIGINAL: Right now we have NO reason to believe folks won't recover.
+	1d62a391-74fc-463f-884c-ab297f14b132 = Ara mateix no tenim CAP motiu per a creure que la gent no es recuperarà.
+
+	//2180. ORIGINAL: The way this started was highly contagious.
+	ec76df47-36e3-4312-a406-09a1455e12f8 = La manera en què va començar va ser altament contagiosa.
+
+	//2181. ORIGINAL: And that's why we, quickly and efficiently, locked the place down.
+	c1d020d2-1053-4733-a579-9809449fe241 = I per això, de manera ràpida i eficient, vam confinar el lloc.
+
+	//2182. ORIGINAL: During the Vietnam War there was a lot of chemical testing conducted in this area.
+	6cb5a2ec-1ccf-47ba-9cc8-982ea672692e = Durant la guerra del Vietnam es van realitzar moltes proves químiques en esta àrea.
+
+	//2183. ORIGINAL: Is there a link?
+	79369f9c-69f1-4098-a8c7-f5047777ad70 = ¿Hi ha alguna relació?
+
+	//2184. ORIGINAL: We don't think so, no ma'am.
+	5ce788f1-dc67-49c7-adf3-4decb85d5c95 = No ho creguem, no, senyora.
+
+	//2185. ORIGINAL: We're going straight over to Washington now, and Daniel Sinclair.
+	24fbfb19-e7a0-4f61-8f13-0d2166d1f5cb = Anem directament a Washington ara, amb Daniel Sinclair.
+
+	//2186. ORIGINAL: Daniel - can you hear me?
+	3caa4f11-a6e2-4fd4-9ec1-acadcc701ca5 = Daniel, ¿m'escoltes?
+
+	//2187. ORIGINAL: I can. Yes.
+	fef0a2dd-d37e-46db-ad1f-6b566862b096 = T'escolte. Sí.
+
+	//2188. ORIGINAL: As you can see in the scenes behind me...
+	6ce3301e-cfd6-4e42-9441-f8e84b54c723 = Com podeu veure en les imatges que tinc darrere...
+
+	//2189. ORIGINAL: ... there is a huge number of protesters here today.
+	9f70ea82-5ca5-45ba-a1d2-264a32ee55f2 = ...hi ha una gran quantitat de manifestants hui ací.
+
+	//2190. ORIGINAL: All angry and all wearing surgical masks: partly from solidarity...
+	0519e40d-d10b-4d0f-a881-21d3c4c3a774 = Tots indignats i tots amb mascaretes quirúrgiques: en part per solidaritat...
+
+	//2191. ORIGINAL: ... and perhaps from fear.
+	1caf8b35-6def-448a-880e-73b7bd2b23cd = ...i potser també per por.
+
+	//2192. ORIGINAL: We've heard talk of fighting, Daniel.
+	7fab8e34-081e-4b9f-a134-e091761b95fd = Ens han arribat veus de baralles, Daniel.
+
+	//2193. ORIGINAL: Yes, there have been strong words - and unwise actions.
+	dca5cb60-eb87-4d29-bf38-75b07108dff6 = Sí, hi ha hagut paraules pujades de to i accions poc prudents.
+
+	//2194. ORIGINAL: Localized fighting, swiftly dealt with by police officers.
+	07f70824-b03a-411f-8433-6bc9a749f9f4 = Baralles localitzades, resoltes ràpidament pels oficials de policia.
+
+	//2195. ORIGINAL: All quiet right now though, aside from the loud, angry chants.
+	5f21c9c6-c5f2-468e-8502-7e84b825feaa = Però ara mateix tot està en calma, a banda dels càntics forts i furiosos.
+
+	//2196. ORIGINAL: It's a crowd on a knife-edge.
+	f96ca301-36e5-42bd-b5c0-3dd511983044 = És una multitud que penja d'un fil.
+
+	//2197. ORIGINAL: JESUS!
+	4c1af641-058a-4673-af5f-4c9be0fc39f6 = ¡MARE MEUA!
+
+	//2198. ORIGINAL: What, what's happening?
+	c97cc617-499e-48e1-b6f9-771614b02692 = ¿Què, què està passant?
+
+	//2199. ORIGINAL: Someone just threw a firebomb. Someone in the crowd..
+	530e28d0-66fd-4c14-8f28-5c3b8f4a18dc = Algú acaba de llançar una bomba incendiària. Algú d'entre la multitud...
+
+	//2200. ORIGINAL: Errr. Stick with us everyone.
+	8dcabe15-a867-4cb6-b967-4909be4297f5 = Ehem. Seguiu amb nosaltres.
+
+	//2201. ORIGINAL: More as it happens on the developing story...
+	cc4a46eb-bf75-4609-bb53-2421afbc5842 = Més detalls a mesura que ocórreguen en esta història en desenllaç...
+
+	//2202. ORIGINAL: The more I think, the more I realise - we need to thank them.
+	14007dfa-c04c-4c09-8196-abff2b40b2d0 = Com més ho pense, més m'adone: hem de donar-los les gràcies.
+
+	//2203. ORIGINAL: We need to thank the US Army.
+	ab662549-8ab8-4dd6-a523-fbd6806dd105 = Hem de donar les gràcies a l'Exèrcit dels EUA.
+
+	//2204. ORIGINAL: Whatever this is, it isn't fun. It could've spread.
+	bbd2eb2e-c400-4c51-ad6f-97ea36ecb5be = Siga el que siga açò, no és cap broma. Podria haver-se estés.
+
+	//2205. ORIGINAL: Right now, you could be sick.
+	ff3b6d60-abb6-4b03-99a0-ed7baf6366bc = Ara mateix, tu podries estar malalt.
+
+	//2206. ORIGINAL: Your kids could be sick.
+	eafb95d0-c842-4cdd-a5c1-64d98401a874 = Els teus fills podrien estar malalts.
+
+	//2207. ORIGINAL: They were ready for their duty. They got involved.
+	791dc9db-f0e1-4d4a-aa15-30e3f7d6b866 = Estaven preparats per al seu deure. Es van implicar.
+
+	//2208. ORIGINAL: They rolled out from their bases, and they protected America.
+	4f110315-7bfe-4a67-800d-e5365eb59b72 = Van eixir de les seues bases i van protegir Amèrica.
+
+	//2209. ORIGINAL: They did it fast, and they did it effectively.
+	92b5842c-10a8-416e-b100-fd742519041d = Ho van fer ràpid i ho van fer de manera efectiva.
+
+	//2210. ORIGINAL: They did it in one of the most militarily senstive areas in America.
+	ed794a35-aa43-4eb7-aebd-337ca84c1712 = Ho van fer en una de les àrees militarment més sensibles d'Amèrica.
+
+	//2211. ORIGINAL: God bless them.
+	7c7a9934-ede4-4aa9-910e-dfc59ba65fb6 = Que Déu els beneïsca.
+
+	//2212. ORIGINAL: There is an illness in there, and it is contained.
+	607ed5d9-b5f3-49f8-8687-3325b24a3b25 = Hi ha una malaltia allí dins, i està continguda.
+
+	//2213. ORIGINAL: Yes, a lot of people are hurting.
+	65fcc93b-670f-4826-80c5-818dafd39529 = Sí, molta gent està patint.
+
+	//2214. ORIGINAL: Yes, it's unfortunate that familes have been divided.
+	79a09c8e-0872-4501-a4ee-8270595c6f68 = Sí, és lamentable que les famílies hagen sigut dividides.
+
+	//2215. ORIGINAL: People kept from their homes? That's never good.
+	69ab15e6-5d71-42dc-b257-689a0d1cbdf9 = ¿Gent allunyada de les seues cases? Això mai és bo.
+
+	//2216. ORIGINAL: But this is swift, decisive action.
+	5d4c327d-57ea-498b-a949-da4ff4f8c066 = Però esta és una acció ràpida i decisiva.
+
+	//2217. ORIGINAL: A threat is being dealt with.
+	9854f45b-9c31-4a78-9859-a4d19686429c = S'està fent front a una amenaça.
+
+	//2218. ORIGINAL: That illness in the Exclusion Zone? It's trapped.
+	89e7d3aa-706c-4362-938f-f04ca730cff6 = ¿Eixa malaltia en la Zona d'Exclusió? Està atrapada.
 
 
 [/Translations]
