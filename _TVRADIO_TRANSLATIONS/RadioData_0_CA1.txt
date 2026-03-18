@@ -13770,6 +13770,6 @@
 	4293fc93-7971-43db-af38-06e5f65860c0 = ¡El millor i de la zona!
 
 	//4622. ORIGINAL: Even though I do say so myself!
-	48d201d8-0325-4952-9eef-d5944239dd73 = ¡Encara que ho digui jo mateix!
+	48d201d8-0325-4952-9eef-d5944239dd73 = ¡Encara que ho digui jo mateix !
 
 [/Translations]
